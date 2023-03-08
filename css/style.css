@@ -9,12 +9,12 @@ body {
 }
 
 .card {
-    width:1770px;
+    width:1760px;
     margin: 40px;
-    padding: 25px;
+    padding: 20px;
     background-color: #fff;
-    box-shadow: 0 10px 30px;
-    border-radius: 20px;
+    box-shadow: 10px 10px 30px;
+    border-radius: 25px;
     text-align: center;
 }
 
@@ -31,9 +31,6 @@ body {
     text-align: center;
 }
 
-div2 {
-    align-items: center
-}
 
 
 
